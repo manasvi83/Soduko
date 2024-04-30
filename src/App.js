@@ -23,7 +23,7 @@ function App() {
   function onInputChange(e, row, col) {
     var val = parseInt(e.target.value) || 0, grid = getDeepCopy(sodukoArr);
     // input value should range from 1-9 and for empty cell it should be 0
-    if (val === 0 || val >= 1 && val <= 9) {
+    if ((val === 0 || val >= 1) && (val <= 9)) {
       grid[row][col] = val;
     }
 
