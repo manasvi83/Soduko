@@ -42,7 +42,7 @@ td{
 }
 
 .solveButton{
-  background-color: orange;
+  background-color: #97DECE;
   font-weight: bold;
   padding: 12px 20px;
   border: none;
@@ -52,7 +52,7 @@ td{
 }
 
 .checkButton{
-  background-color: tomato;
+  background-color: #A0E9FF;
   font-weight: bold;
   padding: 12px 20px;
   border: none;
@@ -61,7 +61,7 @@ td{
 }
 
 .resetButton{
-  background-color: skyblue;
+  background-color: #D0BFFF;
   font-weight: bold;
   padding: 12px 20px;
   border: none;
