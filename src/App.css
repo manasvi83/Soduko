@@ -20,14 +20,14 @@
   font-size: 20px;
   text-align: center;
   padding: 0px;
-  border: 1px solid black;
+  border: 1px solid #004c4c;
 
 }
 
 table {
   border-collapse: collapse;
-  border: 3px solid bisque;
-  background-color: bisque;
+  border: 3px solid #008080;
+  background-color:#66B2B2;
 
 }
 
@@ -70,11 +70,11 @@ td{
 }
 
 .bBorder{
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #004c4c;
 }
 
 .rBorder{
-  border-right: 2px solid black;
+  border-right: 2px solid #004c4c;
 }
 
 /* @keyframes App-logo-spin {
